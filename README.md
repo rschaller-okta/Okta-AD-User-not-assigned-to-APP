@@ -1,6 +1,6 @@
 # Okta-AD-User-not-assigned-to-APP
-*THIS PROJECT IS INTENDED FOR NON PRODUCTION ENVIRONMENTS*
-*PLEASE PROCEED AND USE AT YOUR OWN RISK*
+*`THIS PROJECT IS INTENDED FOR NON PRODUCTION ENVIRONMENTS
+PLEASE PROCEED AND USE AT YOUR OWN RISK`*
 
 ## Windows Version Usage
 1. [Download Link](https://github.com/rschaller-okta/Okta-AD-User-not-assigned-to-APP/blob/master/windows/okta_check_users.exe)
